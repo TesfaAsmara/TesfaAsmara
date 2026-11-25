@@ -18,6 +18,7 @@ I build software and infrastructure. I run **[Claremont Computer Network](https:
 | Project | What it is |
 | :--- | :--- |
 | [`claremont-computer-network`](https://github.com/claremont-computer-network) | Open source home for builders across the Claremont Colleges |
+| [`Cate School`](https://github.com/CateSchool) | Open source home for Cate School builders|
 
 <details>
 <summary>More about me</summary>
